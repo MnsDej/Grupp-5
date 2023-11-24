@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "exifr": "^7.1.3"
+  },
+  "name": "grupp-5",
+  "type": "module",
+  "description": "Ny grupp",
+  "version": "1.0.0",
+  "main": "list-of-photos.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
